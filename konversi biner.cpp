@@ -2,7 +2,7 @@
 using namespace std;
 
 int main(){
-    int desimal; int batas=0; int sisa[batas];
+    int desimal; int batas=0; int sisa[100];
 
     cin>>desimal;
 
