@@ -2,7 +2,7 @@
 using namespace std;
 
 int main(){
-    char input; int batas=0; char data[batas];
+    char input; int batas=0; char data[100];
     
     do{
         cin>>input;
