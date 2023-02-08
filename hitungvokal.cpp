@@ -4,7 +4,7 @@ using namespace std;
 
 int main(){
     int vokal=0; string kata; 
-    cin>>kata;
+    getline(cin, kata);
 
     for(int i=0; i<=kata.length(); i++){
         if(kata[i]=='a'||kata[i]=='i'||kata[i]=='u'
