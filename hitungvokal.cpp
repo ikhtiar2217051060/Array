@@ -8,7 +8,7 @@ int main(){
 
     for(int i=0; i<=kata.length(); i++){
         if(kata[i]=='a'||kata[i]=='i'||kata[i]=='u'
-        ||kata[i]=='e'||kata[i]=='0'){
+        ||kata[i]=='e'||kata[i]=='o'){
             vokal++;
         }
     }
